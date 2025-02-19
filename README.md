@@ -23,3 +23,4 @@ We also create virtual dataset of HRBs by Blender, we used it as a complement to
 
 We first release some data for 2D detection, distance and height measurement.
 We are automopher team from DUT, you can contact me by lzy000121@mail.dlut.edu.cn.
+Our data can be downloaded by BaiduCloud link, you must cite our paper (https://www.researchsquare.com/article/rs-4818785/v1) before you use our data.
